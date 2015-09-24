@@ -15,4 +15,6 @@ El código devuelve un JSON con los siguientes Indicadores Previsionales.
 * SEGURO DE CESANTIA - Contrato Plazo Fijo - Empleador 
 
 
-ESO POR AHORA!
+EL JSON RESULTANTE PUEDES VERLO EN http://indicadores.apgca.cl/
+
+Dudas? contactame a info@apgca.cl
