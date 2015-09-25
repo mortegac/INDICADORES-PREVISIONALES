@@ -34,7 +34,8 @@ try {
 
 
 } catch(Exception $e) {
-echo '{"error":{"text":'. $e->getMessage() .'}}';
+	$respuesta['msg-error'] = $e->getMessage()
+	echo '{"error": ' . json_encode($respuesta). '}';;
 }
 }
 
